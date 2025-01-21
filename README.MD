@@ -26,7 +26,7 @@ Este repositório contém a resolução de vários problemas do LeetCode utiliza
 Para cada um desses problemas, o código foi implementado em Python e está disponível neste repositório. Você pode executar os scripts diretamente ou adaptá-los conforme necessário para o seu ambiente de desenvolvimento. Cada problema está isolado em um arquivo de script separado, facilitando o teste individual.
 
 ## Vídeo
-Para vizualisar o vídeo explicando o projeto clique [AQUI](https://youtu.be/vWULKEZjIo8).
+Para vizualisar o vídeo explicando o projeto clique [AQUI](https://youtu.be/2nsbtD_tpH4).
 
 ## Contribuidores
 <center>
